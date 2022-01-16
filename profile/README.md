@@ -1,6 +1,6 @@
-# Cob:Web-Aclevo,  Innovative, Free Software for the Future!
+# Cob:web-Aclevo,  Innovative, Free Software for the Future!
 
-![Cob:Web-Aclevo Group Logo](https://cobweb-aclevo.org/assets/logo-trans.png)
+![Cob:web-Aclevo Group Logo](https://cobweb-aclevo.org/assets/logo-trans.png)
 
 
 Cob:web-Aclevo is a development and content creation group centered around creating free, innovative, open source technology for the future. We have a diverse, unique range of projects. We have projects relating to software & software development, videos and multimedia, gaming and gaming communities.
