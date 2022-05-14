@@ -1,9 +1,9 @@
-# Cob:web,  Innovative, Free Software for the Future!
+# Cob:web Development,  Innovative, Free Software for the Future!
 
 ![Cob:web Logo](https://cobweb-aclevo.org/assets/logo-trans.png)
 
 
-Cob:web is a development and content creation group centered around creating free, innovative, open source technology for the future. We have a diverse, unique range of projects. We have projects relating to software & software development, videos and multimedia, gaming and gaming communities.
+Cob:web Development is a development and content creation group centered around creating free, innovative, open source technology for the future. We have a diverse, unique range of projects. We have projects relating to software & software development, videos and multimedia, gaming and gaming communities.
 
 ### As a group we have three core values:
 - Free and Open-Source Software
