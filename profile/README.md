@@ -2,6 +2,7 @@
 
 ![Cob:web Logo](https://raw.githubusercontent.com/octaniumdev/.github/main/profile/Frame_13.png)
 
+**Important: If you were trying to join Octanium Discord before, the previous invite was expired. Please try the new one that we made.**
 
 Octanium is a development and content creation group centered around creating free, innovative, open source technology for the future. We have a diverse, unique range of projects. We have projects relating to software & software development, videos and multimedia, gaming and gaming communities.
 
