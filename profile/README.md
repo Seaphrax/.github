@@ -10,7 +10,7 @@ Octanium is a development and content creation group centered around creating fr
 - Privacy
 - Security
 
-You can learn more about us by visiting our [website](https://cobweb-aclevo.org/). We also have a [Discord server](https://discord.gg/z3GXvGtuek) if you would like to talk to us.
+You can learn more about us by visiting our [website](https://cobweb-aclevo.org/). We also have a [Discord server](https://discord.gg/C6QVUKnJRq) if you would like to talk to us.
 
 ### Some of our projects include:
 #### (This part is outdated and will be updated soon)
