@@ -1,6 +1,6 @@
 # Octanium,  Innovative, Free Software for the Future!
 
-![Cob:web Logo](https://raw.githubusercontent.com/octaniumdev/.github/main/profile/Frame_13.png)
+![Cob:web Logo](https://raw.githubusercontent.com/octaniumdev/.github/main/profile/Octanium%20(Dark).png)
 
 **Important: If you were trying to join Octanium Discord before, the previous invite was expired. Please try the new one that we made.**
 
