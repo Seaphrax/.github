@@ -1,3 +1,5 @@
+# Octanium has been closed down as of August 8th, 2023. Thanks for all the fish!
+
 # Octanium,  Innovative, Free Software for the Future!
 
 ![Cob:web Logo](https://raw.githubusercontent.com/octaniumdev/.github/main/profile/Octanium%20(Dark).png)
