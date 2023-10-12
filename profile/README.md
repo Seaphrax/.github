@@ -1,22 +1,3 @@
-# Octanium has been closed down as of August 8th, 2023. Thanks for all the fish!
+# Octanium is now Aclevo
 
-# Octanium,  Innovative, Free Software for the Future!
-
-![Cob:web Logo](https://raw.githubusercontent.com/octaniumdev/.github/main/profile/Octanium%20(Dark).png)
-
-**Important: If you were trying to join Octanium Discord before, the previous invite was expired. Please try the new one that we made.**
-
-Octanium is a development and content creation group centered around creating free, innovative, open source technology for the future. We have a diverse, unique range of projects. We have projects relating to software & software development, videos and multimedia, gaming and gaming communities.
-
-### As a group we have three core values:
-- Free and Open-Source Software
-- Privacy
-- Security
-
-You can learn more about us by visiting our [website](https://cobweb-aclevo.org/). We also have a [Discord server](https://discord.gg/C6QVUKnJRq) if you would like to talk to us.
-
-### Some of our projects include:
-#### (This part is outdated and will be updated soon)
-- [CelOS](https://celos.cobweb-aclevo.org/): An easy to use, beginner-friendly, flatpak-centric Linux distribution based on Ubuntu.
-- [CSSheet](https://github.com/TeamCobweb/cssheet): Simple CSS framework meant to aide developers in building beautiful frontends.
-- [Cobfetch](https://github.com/MathGeniusJodie/tuxfetch): Quick and verbose command line information tool similar to Neofetch.
+Octanium has gone back to it's previous branding known as Aclevo. Please check out our GitHub at [https://github.com/Aclevo](https://github.com/Aclevo)
